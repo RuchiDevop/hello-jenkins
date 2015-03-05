@@ -1,1 +1,1 @@
-print "testing automatic build again\n";
+print "testing automatic build again and again\n";
