@@ -1,2 +1,2 @@
-print "testing automatic build finally on 12 march 4 pm\n";
+print "testing automatic build finally on 13 march\n";
 
